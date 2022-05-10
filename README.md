@@ -44,3 +44,10 @@ However, if you are using this project and are happy with it or just want to enc
 - Giving proper credit when you use github-readme-stats on your readme, linking back to it :D
 - Starring and sharing the project :rocket:
 
+
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+            
+            <i class="devicon-html5-plain colored"></i>
+          
+          
+
